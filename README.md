@@ -12,7 +12,7 @@ primary blog theme. A link to said blog will come shortly. As soon as I finish w
 
 The Manatee Theme 1.0
 =====================
-[!alt tag](https://raw.github.com/Boughtmanatee5/Manatee-Wordpress-Theme/Manatee/screenshot.png)
+![](https://raw.github.com/Boughtmanatee5/Manatee-Wordpress-Theme/Manatee/screenshot.png)
 
 
 Manatee's Future
